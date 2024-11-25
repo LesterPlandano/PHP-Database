@@ -1,0 +1,4 @@
+Hello i'm Allen 
+Group 2
+This is a sample file.
+Entering a new line in the file.
